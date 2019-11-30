@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/julio/Desktop/hash map/main.cpp
+iostream
+-
+bits/stdc++.h
+-
+string
+C:/Users/julio/Desktop/hash map/string
+

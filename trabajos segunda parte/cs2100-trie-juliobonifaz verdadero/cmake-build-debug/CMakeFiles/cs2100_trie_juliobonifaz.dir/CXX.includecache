@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/julio/Desktop/cs2100-trie-juliobonifaz/main.cpp
+iostream
+-
+map
+C:/Users/julio/Desktop/cs2100-trie-juliobonifaz/map
+
